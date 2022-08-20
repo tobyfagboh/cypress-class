@@ -1,0 +1,14 @@
+{
+  "name": "cypress-class",
+  "version": "1.0.0",
+  "description": "Jumia automation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tobyfagbo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.5.0"
+  }
+}
